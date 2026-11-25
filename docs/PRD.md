@@ -1,6 +1,6 @@
 PRODUCT REQUIREMENTS DOCUMENT (PRD)
 
-Project Title: Barbershop Booking and Workforce Optimisation System
+Project Title: Clipsync - Barbershop Booking and Workforce Optimization System
 
 Date: November 2026
 
